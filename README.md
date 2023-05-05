@@ -11,7 +11,7 @@ ECE 6530 DSP - Project Group 3 - Finite Impulse Response (FIR) Filters
 
 ## Overview
 
-![image for UPC decoding block diagram](https://bgrzybowski.com/FIRFilter.github.io/doc/UPCdiagram.PNG)
+![image for UPC decoding block diagram](https://github.com/bgrzybowski/FIRFilter.github.io/blob/main/UPCdiagram.PNG)
 
 ## How to use this project
 The script files for this project use several audio files, image files, and matlab data files. The files should be located in the same working directory when running the script file for best results. 
