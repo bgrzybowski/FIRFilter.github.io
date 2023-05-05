@@ -33,8 +33,38 @@ This project was composed of three main exercises:
 ## How to use this project
 The MATLAB script file for this project is located in the src (source code) directory. The script uses several audio files,
 image files, and matlab data files. All the files required for the MATLAB script to run properly are stored in the dep 
-directory (dependent files). The dependendt files should be located in the same MATLAB working directory as the script
+directory (dependent files). The dependent files should be located in the same MATLAB working directory as the script
 when running the script file in MATLAB for best results. 
+
+
+### Source Code: 
+
+- ProjectGroup3.m
+
+
+
+### Dependent Files: 
+
+- decodeUPC.p
+
+- echart.mat
+
+- HP110v3.png
+
+- labdat.mat
+
+- labdat.wav
+
+- labdat_eco_1.wav
+
+- labdat_eco_2.wav
+
+- labdat_original.wav
+
+- matlab.mat
+
+- OFFv3.png
+
 
 ## References
 
