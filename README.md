@@ -17,6 +17,12 @@ ECE 6530 DSP - Project Group 3 - Finite Impulse Response (FIR) Filters
 
 ## References
 
+[1] J. F. Proakis, D. G. Manolakis, Digital Signal Processing: Principles, Algorithms, and Applications. Upper Saddle River, NJ, USA: Pearson Prentice Hall, 2007, pp. 660-664.
+
+[2] McClellan, Schafer, and Yoder, Signal Processing First. Upper Saddle River, NJ, USA: Prentice Hall, Lab P-9: Sampling, Convolution, and FIR Filtering, pp. 1-11.
+
+[3] McClellan, Schafer, and Yoder, Signal Processing First. Upper Saddle River, NJ, USA: Prentice Hall, Lab P-10: Edge Detection in Images: UPC Decoding, pp. 1-8.
+
 # System Requirements
 
 ## Hardware
