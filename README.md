@@ -40,6 +40,7 @@ The MATLAB script file for this project is located in the src (source code) dire
 - labdat_eco_2.wav
 - labdat_original.wav
 - matlab.mat
+- OFFv3.png
 
 ## References
 
