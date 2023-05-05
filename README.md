@@ -9,7 +9,7 @@ ECE 6530 DSP - Project Group 3 - Finite Impulse Response (FIR) Filters
 - Finding Edges: 1-D Filter Cascaded with Nonlinear Operators
 - Bar Code Detection and Decoding
 
-## Table of Contents 
+## Overview
 
 (detail to be added soon)
 
