@@ -10,8 +10,12 @@ ECE 6530 DSP - Project Group 3 - Finite Impulse Response (FIR) Filters
 - Bar Code Detection and Decoding
 
 ## Overview
+This project was composed of three main exercises:
+- Adding and echo to an audio signal and using an FIR filter to remove the echo and recover the original audio signal.
+- Applying a 1-D FIR filter to process a 2-D image by filtering the data matrix of the image first by horizontal rows, and then by vertical rows. Utilizing a cascaded filter to deconvolve a filtered image and recover the original image. 
+- Utilization of a 1-D FIR filter to process a row of data from an image of a UPC symbol via edge detection. The bars in the UPC symbol are edges that represent a code of digits and can be decoded to a 12 digit sequence of numbers. 
 
-![image for audio signal processing]
+![image for audio signal processing](https://github.com/bgrzybowski/FIRFilter.github.io/blob/main/AudioSignalEchoEquations.PNG)
 
 ![image for image filtering and deconvolution](https://github.com/bgrzybowski/FIRFilter.github.io/blob/main/CascadingTwoSystemsDiagram.PNG)
 
