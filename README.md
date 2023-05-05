@@ -11,9 +11,10 @@ ECE 6530 DSP - Project Group 3 - Finite Impulse Response (FIR) Filters
 
 ## Table of Contents 
 
-## How to use this project
+(detail to be added soon)
 
- 
+## How to use this project
+The script files for this project use several audio files, image files, and matlab data files. The files should be located in the same working directory when running the script file for best results. 
 
 ## References
 
