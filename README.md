@@ -26,6 +26,7 @@ ECE 6530 DSP - Project Group 3 - Finite Impulse Response (FIR) Filters
 # System Requirements
 
 ## Hardware
+The script files were developed on Windows OS 7 or later, with Intel i9 or better processors. Older OS versions or slower processors may result in degraded performance. 
 
 ## Software
-
+The script files for this project were developed in MATLAB R2021b and later versions. It is recommended that MATLAB R2021b or later versions be utilized for running the scripts. The scripts have not been tested in older versions of MATLAB.
