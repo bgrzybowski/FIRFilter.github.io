@@ -10,6 +10,9 @@ ECE 6530 DSP - Project Group 3 - Finite Impulse Response (FIR) Filters
 - Bar Code Detection and Decoding
 
 ## Overview
+
+![image for audio signal processing]
+
 ![image for image filtering and deconvolution](https://github.com/bgrzybowski/FIRFilter.github.io/blob/main/CascadingTwoSystemsDiagram.PNG)
 
 
