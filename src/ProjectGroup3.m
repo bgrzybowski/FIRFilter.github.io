@@ -169,7 +169,7 @@ b = [1, zeros(1, p-2), r];    % Filter coefficients
 
 y = load('labdat.mat');
 x = y.x2;
-% sound(x,Fs);    % play original file
+sound(x,Fs);    % play original file
 % Save original audio to a new .wav format file.
 audiowrite('labdat_original.wav', x, Fs);
 figure(4);
@@ -184,7 +184,7 @@ for i=p+1:length(x)
     y(i) = x(i) + r*x(i-p); 
 end 
 
-% sound(y,Fs);    % playing the echo sigal
+sound(y,Fs);    % playing the echo sigal
 % Save original audio to a new .wav format file.
 audiowrite('labdat_eco_1.wav', y, Fs);
 figure(5)
@@ -201,8 +201,8 @@ audiowrite('labdat_eco_2.wav', y1, Fs);
 figure(6)
 plot(y1);
 title('Echo Audio Signal using firfilt');
-% sound(y1,Fs);    % playing the echo sigal
-% pause(5);
+sound(y1,Fs);    % playing the echo sigal
+pause(5);
 
 % Using filter method for validation
 r = 0.9;
@@ -266,18 +266,18 @@ figure(8);
 subplot(311);
 plot(x2);
 title("Original Signal xn");
-% sound(x2, Fs);
-% pause(5);   % pause for 5 seconds
+sound(x2, Fs);
+pause(5);   % pause for 5 seconds
 subplot(312);
 plot(wn);
 title("Filtered Signal wn")
-% sound(wn, Fs);
-% pause(5);   % pause for 5 seconds
+sound(wn, Fs);
+pause(5);   % pause for 5 seconds
 subplot(313)
 plot(y);
 title("Restored Signal y")
-% sound(y, Fs);
-% pause(5);       % pause for 5 seconds
+sound(y, Fs);
+pause(5);       % pause for 5 seconds
 grid;
 %% Lab 9.3.2.1.b
 % Work out the impulse response h[n]of the cascaded system by hand to verify 
