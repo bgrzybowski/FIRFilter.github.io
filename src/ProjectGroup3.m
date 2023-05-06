@@ -792,6 +792,7 @@ for n = 1:length(delta)
         units(n) = 4;
     end
 end
+% the variable "units" will contain each bars corresponding width
 
 %% Lab 10.3.2.1.h
 % Now you are ready to perform the decoding to digits. A p-code function
